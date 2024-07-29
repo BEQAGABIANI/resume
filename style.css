@@ -118,45 +118,44 @@ a {
   z-index: 0;
 }
 
-.sakontaqto{
-    position: relative;
-    top: 300px;
-    left: 300px;
-    width: 600px;
+.sakontaqto {
+  position: relative;
+  top: 300px;
+  left: 300px;
+  width: 600px;
 }
 
 .fb-link {
-    font-size: 60px;
-    width: 400px;
+  font-size: 60px;
+  width: 400px;
 }
-.fb-icon{
-    position: absolute;
-    top: -20px;
-    left:-95px;
+.fb-icon {
+  position: absolute;
+  top: -20px;
+  left: -95px;
 }
 
-.fb:hover{
-    background: #121fcf;
+.fb:hover {
+  background: #121fcf;
   background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   width: 900px;
 }
-.phone-icon{
-    position: absolute;
-    top:140px;
-    left:-95px;
+.phone-icon {
+  position: absolute;
+  top: 140px;
+  left: -95px;
 }
-.nomeri{
-    
-    padding-top: 90px;
-    padding-left: 20px;
-    font-size: 60px;
+.nomeri {
+  padding-top: 90px;
+  padding-left: 20px;
+  font-size: 60px;
 }
 
-.phone:hover{
-    background: #121fcf;
-    background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.phone:hover {
+  background: #121fcf;
+  background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
